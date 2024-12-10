@@ -15,6 +15,9 @@ Arrow controls: left, right, and spacebar jump.
 
 
 ## Screenshots:
+![1](https://github.com/user-attachments/assets/e2597f93-e82b-4c58-aed8-2e1c4a1749d6)
+![2](https://github.com/user-attachments/assets/eaa1870a-c8da-485c-a65c-177bf958371f)
+
 
 
 ### Download
