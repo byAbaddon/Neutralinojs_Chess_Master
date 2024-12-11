@@ -1,5 +1,5 @@
 # Neutralinojs_Chess_Master
-Neutralinojs_Chess_Master
+
 
 ### Created a project using:
 + NeutralinoJS 
