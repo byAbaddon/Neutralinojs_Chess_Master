@@ -2,7 +2,9 @@
 Neutralinojs_Chess_Master
 
 ### Created a project using:
-+ NeutralinoJS ,.....................................
++ NeutralinoJS 
++ JS / HTML / CSS
++ consultant assistance ChatGPT
 
 # Game - Chess Master
 
