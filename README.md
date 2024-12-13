@@ -11,7 +11,7 @@
 
 ## Playing the game
 ##### How to play? </br>
-Arrow controls: left, right, and spacebar jump.
+Choose from the menu: color of the board, style or color of the pieces.
 
 ## Short video intro:
 
