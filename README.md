@@ -14,7 +14,8 @@
 Select an interface from the menu:</br>
 Color of the board, style or color of the pieces you want to play. </br>
 Choose between game types:</br>
-Player vs. Player or Player vs. AI with different intelligence level
+Player vs. Player or Player vs. AI with different intelligence level. </br>
+Play!
 
 ## Short video intro:
 
