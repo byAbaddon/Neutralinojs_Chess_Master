@@ -11,7 +11,10 @@
 
 ## Playing the game
 ##### How to play? </br>
-Choose from the menu: color of the board, style or color of the pieces.
+Select an interface from the menu:
+Color of the board, style or color of the pieces you want to play.
+Choose between game types:
+Player vs. Player or Player vs. AI with different intelligence level
 
 ## Short video intro:
 
