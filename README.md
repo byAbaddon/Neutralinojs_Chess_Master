@@ -18,7 +18,7 @@ Player vs Player or Player vs AI with different intelligence level. </br>
 Just Play!
 
 ## Short video intro:
-
+soon
 
 ## Screenshots:
 ![1](https://github.com/user-attachments/assets/e2597f93-e82b-4c58-aed8-2e1c4a1749d6)
@@ -28,7 +28,7 @@ Just Play!
 
 ### Download
 ##### download file:
-
+soon
 
 
 ### Prerequisites
