@@ -34,6 +34,7 @@ soon
 
 ### Prerequisites
 - [Neutralinojs](https://neutralino.js.org)
+- https://chessboardjs.com/
 #### Year:
 2024
 
