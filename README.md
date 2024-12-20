@@ -24,6 +24,7 @@ soon
 ## Screenshots:
 ![1](https://github.com/user-attachments/assets/e2597f93-e82b-4c58-aed8-2e1c4a1749d6)
 ![2](https://github.com/user-attachments/assets/eaa1870a-c8da-485c-a65c-177bf958371f)
+![Снимка от 2024-12-20 23-13-13](https://github.com/user-attachments/assets/2d95034c-0b32-4d2c-b43e-2ccd06bdf34c)
 
 
 
