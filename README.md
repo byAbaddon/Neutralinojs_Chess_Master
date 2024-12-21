@@ -37,7 +37,7 @@ soon
 - [Neutralinojs](https://neutralino.js.org)
 - https://chessboardjs.com/
 #### Year:
-2024
+2025
 
 ### Developer
 By Abaddon
