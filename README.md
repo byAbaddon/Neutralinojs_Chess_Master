@@ -4,7 +4,7 @@
 ### Created a project using:
 + NeutralinoJS 
 + JS / HTML / CSS
-+ chess.js / chessboard-1.0.0
++ chess.js / chessboard.js  1.0.0
 + consultant assistance ChatGPT
 
 # Game - Chess Master
