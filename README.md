@@ -16,6 +16,9 @@ Select an interface from the menu:</br>
 Color of the board, style or color of the pieces you want to play. </br>
 Choose between game types:</br>
 Player vs Player or Player vs AI with different intelligence level. </br>
+Child: The bot makes random moves. </br>
+Pro: The bot uses static evaluation of the position and chooses the best move. </br>
+Master: The bot uses the Minimax algorithm with alpha-beta pruning to make strategic decisions.  </br>
 Just Play! Enjoy!
 
 ## Short video intro:
