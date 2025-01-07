@@ -21,6 +21,18 @@ Pro: The bot uses static evaluation of the position and chooses the best move. <
 Master: The bot uses the Minimax algorithm with alpha-beta pruning to make strategic decisions.  </br>
 Just Play! Enjoy!
 
+```diff
+- Unfortunately, the "Pro" and "Master" options will not be included for use due to the slow processing speed of the chess.js library. This limitation stems from the computational inefficiency of implementing the Minimax algorithm with alpha-beta truncation within the library. Specifically:
+- The library lacks optimizations for quickly evaluating board positions, making even shallow depth searches (eg depth 2 or 3) unreasonably slow.
+- The exponential growth of possible moves in chess leads to significant performance issues when trying to calculate strategic moves using Minimax.
+- While alpha-beta truncation reduces the number of evaluated nodes, the lack of highly efficient evaluation functions and advanced heuristics in the library exacerbates the problem.
+
++ As a result, these modes will not provide a satisfying gameplay experience due to the long delays between moves.
+@@ P.S. @@
+- It was even necessary to stop the clock that counts down the time in seconds to avoid lag and improve performance.
+```
+
+
 ## Short video intro:
 soon
 
