@@ -29,7 +29,7 @@ Just Play! Enjoy!
 
 + As a result, these modes will not provide a satisfying gameplay experience due to the long delays between moves.
 @@ P.S. @@
-- It was even necessary to stop the clock that counts down the time in seconds to avoid lag and improve performance.
++ It was even necessary to stop the clock that counts down the time in seconds to avoid lag and improve performance.
 ```
 
 
