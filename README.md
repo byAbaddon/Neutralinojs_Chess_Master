@@ -28,7 +28,7 @@ Just Play! Enjoy!
 - While alpha-beta truncation reduces the number of evaluated nodes, the lack of highly efficient evaluation functions and advanced heuristics in the library exacerbates the problem.
 
 + As a result, these modes will not provide a satisfying gameplay experience due to the long delays between moves.
-@@ P.S. @@
+! P.S. !
 + It was even necessary to stop the clock that counts down the time in seconds to avoid lag and improve performance.
 ```
 
