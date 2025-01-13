@@ -34,7 +34,7 @@ Just Play! Enjoy!
 
 
 ## Short video intro:
-soon
+https://youtu.be/5U4_oiLSJss
 
 ## Screenshots:
 ![1](https://github.com/user-attachments/assets/e2597f93-e82b-4c58-aed8-2e1c4a1749d6)
