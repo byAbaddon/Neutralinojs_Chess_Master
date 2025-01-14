@@ -45,7 +45,7 @@ https://youtu.be/5U4_oiLSJss
 
 ### Download
 ##### download file:
-(https://github.com/byAbaddon/Neutralinojs_Chess_Master/releases/tag/ChessMaster)
+https://github.com/byAbaddon/Neutralinojs_Chess_Master/releases/tag/ChessMaster
 
 
 ### Prerequisites
